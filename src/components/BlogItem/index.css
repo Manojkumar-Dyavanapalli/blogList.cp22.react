@@ -1,0 +1,17 @@
+/* Write your CSS code here */
+.blog-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  font-size: 20px;
+  color: #12022f;
+}
+.date-title-cont {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.hr {
+  height: 2px;
+  width: 100%;
+}
